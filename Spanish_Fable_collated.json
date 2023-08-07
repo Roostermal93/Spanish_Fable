@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 7,
     "next": null,
     "previous": null,
     "results": [
@@ -23,6 +23,27 @@
             "type": "Fable",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Spanish/0d7130e1-de1d-451f-845f-292713595a9d_es_Female.mp4"
+        },
+        {
+            "id": "7f08693b-a956-47ec-b1e0-415fedd48ff9",
+            "collectionId": "Spanish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Spanish/7f08693b-a956-47ec-b1e0-415fedd48ff9_es_Male.mp4"
+        },
+        {
+            "id": "ad288504-f945-4b6e-956b-9f77205d0c0b",
+            "collectionId": "Spanish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Spanish/ad288504-f945-4b6e-956b-9f77205d0c0b_es_Male.mp4"
+        },
+        {
+            "id": "2737f641-5608-41a0-8080-bdc88df79125",
+            "collectionId": "Spanish",
+            "type": "Fable",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Fable/Spanish/2737f641-5608-41a0-8080-bdc88df79125_es_Female.mp4"
         },
         {
             "id": "b5592a22-c0ed-4b90-a465-8f8e93af9e5c",
